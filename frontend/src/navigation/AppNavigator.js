@@ -46,7 +46,7 @@ export const AppNavigator = () => {
 
 const styles = StyleSheet.create({
   icon: {
-    backgroundColor: 'gray',
+    backgroundColor: 'white',
     padding: 10,
   },
 });
